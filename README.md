@@ -1,18 +1,18 @@
 # Akanle Maxwell - Data Analyst Portfolio
 ## About
-Hi, I'm Tianna! I have an analytical background in Biochemistry and currently, I am on track to completing my degree in Data Science (MS. Data Science). I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Maxwell! I have a background in philosophy and a growing specialization in data analytics. I am passionate about using data to uncover meaningful insights, identify patterns, and support better decision-making. I am currently building my technical skills in data analysis, with hands-on experience using tools such as Microsoft Excel, SQL, and Tableau.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
+Through my professional experience and data analytics projects, I have developed a strong foundation in data management, reporting, visualization, and analytical problem-solving. I enjoy working with data, exploring trends, and turning information into clear and actionable insights.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+In my free time, I enjoy exploring new data analysis tools and techniques and working on projects that allow me to strengthen my analytical skills. Whether working independently or as part of a team, I am driven by curiosity, continuous learning, and the satisfaction of using data to solve real-world problems.
 
 My CV in [pdf](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/Maxwell's%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of Contents
-- [About](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [About](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/README.md#about)
+- [Portfolio Projects](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/README.md#portfolio-projects)
   - Python
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
@@ -22,14 +22,14 @@ This is a repository to showcase skills, share projects and track my progress in
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - Excel / Google Sheets
-  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/tianna.parris)
+  - Tableau---> [go to Tableau..](https://public.tableau.com/app/profile/maxwell.akanle/vizzes)
   - Power BI
   
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/README.md#education)  
+- [Certificates](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/README.md#certificates)
+- [Contact](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
@@ -99,26 +99,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
-
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
+University of Lagos, Lagos, Nigeria: 
+Bachelor's degree, Philosophy,
+2019 - 2024
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
+- [Google Data Analytics Professional Certificate](https://www.netacad.com/certificates/?issuanceId=f466e18a-6533-4d64-a7dc-89b990a6959e) (June 2026) (CISCO)
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 - [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
-- Email: parristianna@yahoo.com
+- LinkedIn: [@maxwellakanle](www.linkedin.com/in/maxwell-akanle-75a954248)
+- Email: simiayo56@gmail.com

@@ -6,7 +6,7 @@ Through my professional experience and data analytics projects, I have developed
 
 In my free time, I enjoy exploring new data analysis tools and techniques and working on projects that allow me to strengthen my analytical skills. Whether working independently or as part of a team, I am driven by curiosity, continuous learning, and the satisfaction of using data to solve real-world problems.
 
-My CV in [pdf](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/Maxwell's%20CV.pdf).
+My CV in [pdf](https://github.com/simiayo56-cloud/DATA-ANALYSIS-PORTFOLIO/blob/main/Simi%20CV.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
